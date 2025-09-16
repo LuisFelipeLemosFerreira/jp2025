@@ -9,7 +9,7 @@ for ($i = 1; $i <= 10; $i++) {
     }
 
     $nota = readline("Aluno $i - Nota (0-10): ");
-    // normaliza vírgula para ponto e valida
+
     $nota = str_replace(',', '.', $nota);
     while (!is_numeric($nota) || $nota < 0 || $nota > 10) {
         $nota = str_replace(',', '.', readline("Valor inválido. Digite a nota do Aluno $i (0-10): "));

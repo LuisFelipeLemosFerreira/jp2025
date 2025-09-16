@@ -1,5 +1,4 @@
 <?php
-// exercicio3.php
 $vetor = [];
 
 for ($i = 1; $i <= 10; $i++) {
