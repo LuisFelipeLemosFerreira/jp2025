@@ -26,3 +26,4 @@ foreach ($vetor as $v) {
 echo PHP_EOL . "Vetor original: [" . implode(', ', $vetor) . "]" . PHP_EOL;
 echo "Multiplicador: $multiplicador" . PHP_EOL;
 echo "Vetor resultante: [" . implode(', ', $resultado) . "]" . PHP_EOL;
+?>

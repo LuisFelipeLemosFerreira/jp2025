@@ -34,3 +34,4 @@ echo "Negativos: $negativos" . PHP_EOL;
 echo "Positivos: $positivos" . PHP_EOL;
 echo "Pares (entre inteiros): $pares" . PHP_EOL;
 echo "Ímpares (entre inteiros): $impares" . PHP_EOL;
+?>

@@ -27,3 +27,4 @@ $nomeMaior = $alunos[$indiceMaior];
 
 echo "\nMédia da turma: " . number_format($media, 2) . PHP_EOL;
 echo "Maior nota: " . number_format($maiorNota, 2) . " - Aluno: $nomeMaior" . PHP_EOL;
+?>
