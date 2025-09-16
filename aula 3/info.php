@@ -1,5 +1,4 @@
 <?php
-// exercicio1.php
 $alunos = [];
 $notas = [];
 
